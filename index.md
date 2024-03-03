@@ -2,6 +2,7 @@
 
 联系方式：baimao3389@gmail.com
 
+[about me](./about/about_me.md)
 
 # 计算机取证
 [CTF Misc(1)图片隐写基础以及原理，覆盖了大部分题型](./forensics/CTF%20Misc(1)图片隐写基础以及原理，覆盖了大部分题型.md)
