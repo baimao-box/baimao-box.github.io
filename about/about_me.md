@@ -1,5 +1,5 @@
 # 简历
-我是成都市一名在读的大一高职生，全栈CTFer，Redteam，星盟安全团队成员
+我是成都市一名全栈CTFer，Redteam，星盟安全团队成员
 ## 联系方式：
 ```
 CSDN：https://blog.csdn.net/qq_45894840?type=blog
