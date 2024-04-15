@@ -1,11 +1,9 @@
 # 简历
 ## 个人信息：
 ```
-Ba1_Ma0
+姓名：夏浩栖
 性别：男
-年龄：19
-学历：大专
-大一
+年龄：20
 blog：https://blog.csdn.net/qq_45894840?type=blog
 Gmail：baimao3389@gmail.com
 QQ：3316735898
