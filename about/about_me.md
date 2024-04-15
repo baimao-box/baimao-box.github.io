@@ -4,9 +4,6 @@
 姓名：夏浩栖
 性别：男
 年龄：20
-blog：https://blog.csdn.net/qq_45894840?type=blog
-Gmail：baimao3389@gmail.com
-QQ：3316735898
 ```
 ## 个人荣誉
 ```
