@@ -41,7 +41,6 @@ CNVD-YCGW-202304040127
 2023 国际赛 Texas Security Awareness Week 2023 排名 21
 2022 DASCTF第23名
 2021国际赛picoctf，排名31
-2022强网杯青年赛第39名
 2022 *ctf，排名37
 2022国际赛ShaktiCTF 排名58
 2022国际赛pingctf，排名61
