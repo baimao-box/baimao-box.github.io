@@ -1,9 +1,9 @@
 # 简历
 ## 个人信息：
 ```
-blog：https://blog.csdn.net/qq_45894840?type=blog
-      https://xz.aliyun.com/u/83539
-年龄：19
+blog：https://xz.aliyun.com/u/83539
+      https://blog.csdn.net/qq_45894840?type=blog
+年龄：20
 性别：男
 Gmail：baimao3389@gmail.com
 ```
@@ -82,6 +82,7 @@ CTF 比赛 web，pwn，逆向，misc，取证，密码学全栈方向
 • 多次发表过二进制安全类的期刊论文
 • 熟悉木马动静态免杀技术，开发过原创木马程序免杀技术，除卡巴斯基外都稳定上线，且未来一段时间不怕被检测到
 • CSDN专家博主，粉丝5000，阅读量30w+
+• 多次在先知社区首页发布技术文章
 • 熟悉二进制漏洞挖掘，多次挖掘过路由器栈溢出，堆溢出，rce漏洞
 • 多次个人复现cve
 • 分析过 linux 内核源码，对计算机系统底层和操作系统有一定认知详细分析和复现多个 cve
