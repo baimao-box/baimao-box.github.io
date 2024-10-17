@@ -1,9 +1,11 @@
 # 简历
 ## 个人信息：
 ```
-姓名：夏浩栖
-年龄：21
+年龄：20
 性别：男
+Gmail：baimao3389@gmail.com
+blog：https://xz.aliyun.com/u/83539
+      https://blog.csdn.net/qq_45894840?type=blog
 ```
 # 个人荣誉
 ```
