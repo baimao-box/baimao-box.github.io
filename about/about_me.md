@@ -1,11 +1,13 @@
 # 简历
 ## 个人信息：
 ```
+姓名：夏浩栖
 年龄：20
 性别：男
 Gmail：baimao3389@gmail.com
 blog：https://xz.aliyun.com/u/83539
       https://blog.csdn.net/qq_45894840?type=blog
+教育背景：2023.09—2026.07 成都职业技术学院 软件学院 计算机网络技术 专科
 ```
 # 个人荣誉
 ```
