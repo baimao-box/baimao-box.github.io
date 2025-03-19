@@ -1,8 +1,12 @@
 # 简历
 ## 个人信息：
 ```
-年龄：20
+姓名：夏浩栖
+学历：大专
+毕业院校：成都职业技术学院
+年龄：21
 性别：男
+电话：13438157784
 Gmail：baimao3389@gmail.com
 blog：https://xz.aliyun.com/u/83539
       https://blog.csdn.net/qq_45894840?type=blog
@@ -33,19 +37,18 @@ blog：https://xz.aliyun.com/u/83539
 CSDN博客专家认证证书
 51CTO博客专家博主证书
 国家信息安全一级水平证书
-TryHackMe进攻性渗透结业证书
-CNNVD原创漏洞高危报送证书（CNNVD-2023-67443215）
 Edusrc新疆交通职业学院漏洞报送感谢证书
 Edusrc广西民族大学漏洞报送感谢证书
 Edusrc毫州学院漏洞报送感谢证书
 Edusrc广西中医药大学漏洞报送感谢证书
 
-CVE和CNVD成果：
-CVE-2023-26812
-CVE-2023-30349
-CVE-2023-26813
-CNVD-YCGN-202403052995
-CNVD-YCGW-202304040127
+CVE、CNVD、CNNVD成果：
+CVE-2023-30349（开源web应用代码审计挖掘远程代码执行漏洞）
+CVE-2023-26813（开源web应用代码审计挖掘SQL注入漏洞）
+CVE-2023-26812（开源web应用代码审计挖掘SQL注入漏洞）
+CNVD-YCGN-202403052995（腾达路由器二进制批量挖掘漏洞）
+CNVD-YCGW-202304040127（兆龙信息管理系统文件上传漏）
+CNNVD原创漏洞高危报送证书（CNNVD-2023-67443215）
 
 国际CTF比赛成绩：
 2023年国际赛Texas Security Awareness Week 2023排名第21
@@ -62,7 +65,7 @@ https://github.com/baimao-box/Self-Defective-Program
 ```
 https://github.com/heimao-box/pwnpasi
 ```
-pwnpasi 是一款专为CTF PWN方向栈溢出入门基础题目开发设计的自动化工具，旨在帮助新手小白快速识别和利用32位和64位程序中的栈溢出漏洞与格式化字符串漏洞。该工具能够自动判断溢出字符数，自动识别格式化字符串漏洞，自动识别程序调用的动态链接库，并生成相应的ROP链以利用漏洞。支持多种利用方式，包括调用system后门函数、写入shellcode、puts函数ROP、write函数ROP以及syscall ROP，格式化字符串利用，绕过PIE防护。此外，工具还具备本地和远程利用功能，并集成了LibcSearcher库，用于在没有提供libc地址的情况下自动搜索合适的libc版本
+pwnpasi 是一款专为CTF PWN方向入门基础题目开发设计的自动化工具，旨在帮助新手小白快速识别和利用32位和64位程序中的栈溢出漏洞与格式化字符串漏洞。该工具能够自动判断溢出字符数，自动识别格式化字符串漏洞，自动识别程序调用的动态链接库，并生成相应的ROP链以利用漏洞。支持多种利用方式，包括调用system后门函数、写入shellcode、puts函数ROP、write函数ROP以及syscall ROP，格式化字符串利用，可自动识别并绕过PIE防护与canary防护。此外，工具还具备本地和远程利用功能，并集成了LibcSearcher库，用于在没有提供libc地址的情况下自动搜索合适的libc版本
 
 
 # CTF
