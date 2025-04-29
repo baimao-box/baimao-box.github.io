@@ -31,6 +31,7 @@ blog：https://xz.aliyun.com/u/83539
 
 漏洞挖掘与行业证书：
 挖掘多个Microsoft Windows系统应用漏洞（VULN-152076、VULN-151540、VULN-151532）
+小皮面板(phpstudy)通用权限提升0day漏洞
 中国机械革命电脑品牌通用权限提升0day漏洞
 向日葵远程控制程序(个人版)通用权限提升0day漏洞
 todesk远程控制程序(个人版)通用权限提升0day漏洞
