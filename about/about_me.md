@@ -1,7 +1,7 @@
 # 简历
 ## 个人信息：
 ```
-年龄：20
+年龄：21
 性别：男
 Gmail：baimao3389@gmail.com
 blog：https://xz.aliyun.com/u/83539
